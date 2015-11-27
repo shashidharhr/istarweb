@@ -1,1 +1,1 @@
-# istarweb
+This is the reporsitory whcih has all files for the website of Istar India.
