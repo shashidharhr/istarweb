@@ -259,7 +259,7 @@ p{
 
 .section img{
     
-     height: 420px;
+     height: 480px;
     display: inline-block;
 }
 
@@ -295,17 +295,7 @@ div#section0.section.fp-section.fp-table.active{
 @media only screen and (max-width : 320px) {
 /* Styles */
     
-   .section img{
-   margin: 0 auto;
-    display: block;
-       padding: 10px 0;
-}
-
-.section p{
-display: block;
-    font-size: 1.2em;
-      padding: 10px 0;
-} 
+   
     h1{
         
         font-size: 2.5em;
@@ -313,7 +303,33 @@ display: block;
     }
     
     
+    .ltimage {
+        clear: both;
+        width: 100%;
+	display: block;
+         text-align: center;
+        margin: 0 auto;
 }
+    .ltimage img{
+        
+        height: 300px;
+    }
+    
+    .rttext {
+         clear: both;
+        text-align: center;
+        text-align: justify;
+        display: block;
+	
+	
+         margin: 0 auto;
+	
+}
+    
+}
+
+
+
 
 
 .ltimage {
